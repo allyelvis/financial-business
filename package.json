@@ -22,5 +22,6 @@
     "html-webpack-plugin": "^5.0.0"
   },
   "author": "Ally Elvis Nzeyimana",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": []
 }
