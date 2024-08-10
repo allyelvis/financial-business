@@ -4,8 +4,24 @@ This is a web application for financial and business management.
 
 ## Installation
 
-Run `npm install` to install all dependencies.
+To install and set up the project, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/allyelvis/financial-business.git
+    cd my_project
+    ```
+
+2. Install all dependencies:
+
+    ```bash
+    npm install
+    ```
 
 ## Development
 
-Use `npm start` to start the development server.
+To start the development server:
+
+```bash
+npm start
