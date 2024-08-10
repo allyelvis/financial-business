@@ -23,5 +23,13 @@
   },
   "author": "Ally Elvis Nzeyimana",
   "license": "MIT",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/financial-business.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allyelvis/financial-business/issues"
+  },
+  "homepage": "https://github.com/allyelvis/financial-business#readme"
 }
