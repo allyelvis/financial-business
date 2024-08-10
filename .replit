@@ -1,6 +1,6 @@
 entrypoint="index.html"
 hidden=[".config"]
-modules = ["nodejs-20", "web:v2-20230623-0b7a606"]
+modules = ["nodejs-20", "web:v2-20230623-0b7a606", "bash", "gcloud", "dotnet-7.0", "java-graalvm22.3"]
 
 [nix]
 channel = "stable-23_11"
