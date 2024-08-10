@@ -16,6 +16,30 @@
       <version>0.0.6</version>
       <type>pom</type>
     </dependency>
+    <dependency>
+      <groupId>pub.doric</groupId>
+      <artifactId>dconsole</artifactId>
+      <version>0.1.6</version>
+      <type>jar</type>
+    </dependency>
+    <dependency>
+      <groupId>pub.doric</groupId>
+      <artifactId>jse</artifactId>
+      <version>0.6.13</version>
+      <type>jar</type>
+    </dependency>
+    <dependency>
+      <groupId>org.linkedopenactors.ap</groupId>
+      <artifactId>rdf-pub-documentation</artifactId>
+      <version>0.0.6</version>
+      <type>jar</type>
+    </dependency>
+    <dependency>
+      <groupId>org.linkedopenactors.ap</groupId>
+      <artifactId>rdf-pub-integrationtests</artifactId>
+      <version>0.0.6</version>
+      <type>jar</type>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
