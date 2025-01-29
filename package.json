@@ -16,7 +16,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "replit": "^1.0.0",
-    "theme": "^0.0.3"
+    "theme": "^0.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
